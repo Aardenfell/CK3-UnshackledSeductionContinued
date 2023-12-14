@@ -30,6 +30,10 @@ I could only find the original mod listed [here](https://catalogue.smods.ru/arch
 2. Extract the contents into your game's mod directory.
 3. Enable the mod in the game's launcher.
 
+or
+
+Download via [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3113921549)
+
 ## Compatibility
 
 This version is designed to be compatible with Crusader Kings III version 1.11.*. Ensure that you have the latest version of the original "Unshackled Seduction" mod installed before adding this continued enhancement.
