@@ -2,7 +2,7 @@
 
 ![Mod Banner](https://github.com/Aardenfell/Unshackled-Seduction--Continued-/blob/main/thumbnail.png)
 
-This is a continued and enhanced version of the "Unshackled Seduction" mod, originally created by [Original Author](https://steamcommunity.com/profiles/76561198007822083).
+This is a continued and enhanced version of the "Unshackled Seduction" mod, originally created by [Olympia](https://steamcommunity.com/profiles/76561198007822083).
 I could only find the original mod listed [here](https://catalogue.smods.ru/archives/66331)
 
 ## Overview
@@ -26,6 +26,7 @@ I could only find the original mod listed [here](https://catalogue.smods.ru/arch
 
 ## Installation
 
+[Not Finished Yet]
 1. Download the latest version of the mod from the [Releases](https://github.com/Aardenfell/Unshackled-Seduction--Continued-/releases) page.
 2. Extract the contents into your game's mod directory.
 3. Enable the mod in the game's launcher.
@@ -48,7 +49,7 @@ This enhancement is provided under the same license as the original mod. Please 
 
 ## Acknowledgments
 
-- [Original Author](https://steamcommunity.com/profiles/76561198007822083) for creating the "Unshackled Seduction" mod.
+- [Olympia](https://steamcommunity.com/profiles/76561198007822083) for creating the "Unshackled Seduction" mod.
 - The modding community for their support and resources.
 
 ## Disclaimer
