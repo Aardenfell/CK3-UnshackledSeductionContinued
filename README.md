@@ -21,8 +21,11 @@ I could only find the original mod listed [here](https://catalogue.smods.ru/arch
   - Removed the blockers preventing seducing lovers and soulmates.
   - Players can now pursue romantic interests more freely.
 
+- **Expanded Romance Options:**
+  - Removed the blockers preventing romancing lovers and soulmates.
+
 - **Overrides:**
-  - Overrides the following file: `seduce_scheme.txt`
+  - Overrides the following files: `seduce_scheme.txt` * `court_scheme.txt`
 
 ## Installation
 
