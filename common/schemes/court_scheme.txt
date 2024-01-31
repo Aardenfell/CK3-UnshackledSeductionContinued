@@ -128,7 +128,7 @@ courting = {
 		#	}
 		#}
 
-		#We're already soulmates
+		#We're already soulmates - Removed
 		#scope:owner = {
 		#	NOT = {
 		#		custom_description = {
