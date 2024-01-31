@@ -53,7 +53,7 @@ courting = {
 		#custom_description = {
 		#	text = romance_success_blocked
 		#	object = scope:target
-
+		#
 		#	NOT = {
 		#		scope:target = {
 		#			has_opinion_modifier = {
@@ -126,7 +126,7 @@ courting = {
 		#			SEDUCER = scope:owner
 		#		}
 		#	}
-		}#
+		#}
 
 		#We're already soulmates
 		#scope:owner = {
