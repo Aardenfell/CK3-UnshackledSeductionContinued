@@ -18,12 +18,12 @@ I could only find the original mod listed [here](https://catalogue.smods.ru/arch
 
 ## Overview
 
-"Unshackled Seduction [Continued]" expands on the original mod's features to provide players with increased agency in role-playing and decision-making within Crusader Kings III. This version is updated to support Crusader Kings III version 1.11.* and introduces additional changes and improvements.
+"Unshackled Seduction [Continued]" expands on the original mod's features to provide players with increased agency in role-playing and decision-making within Crusader Kings III. This version is updated to support Crusader Kings III version 1.12.* and introduces additional changes and improvements.
 
 ### Features
 
-- **Compatibility with 1.11.*:**
-  - Updated to be compatible with Crusader Kings III version 1.11.*
+- **Compatibility with 1.12.*:**
+  - Updated to be compatible with Crusader Kings III version 1.12.*
 
 - **Incestuous Relationships:**
   - Removed the hard blocks surrounding how the game handles incestuous relationships. Note that both parties still need to be adults for such relationships.
@@ -36,7 +36,7 @@ I could only find the original mod listed [here](https://catalogue.smods.ru/arch
   - Removed the blockers preventing romancing lovers and soulmates.
 
 - **Overrides:**
-  - Overrides the following files: `seduce_scheme.txt` * `court_scheme.txt`
+  - Overrides the following files: `seduce_scheme.txt` * `court_scheme.txt` * `00_scheme_interactions.txt`
 
 ## Installation
 
