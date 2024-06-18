@@ -1,27 +1,25 @@
 {
-    "name": "ck3-unshackledseductioncontinued",
-    "version": "1.0.0",
-    "description": "A mod for Crusader Kings III that enhances character interactions.",
-    "scripts": {
-      "start": "node index.js",
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "version": "auto-changelog -p && git add CHANGELOG.md"
-
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Aardenfell/CK3-UnshackledSeductionContinued"
-    },
-    "keywords": [
-      "mod",
-      "game",
-      "character interactions"
-    ],
-    "author": "Your Name",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Aardenfell/CK3-UnshackledSeductionContinued/issues"
-    },
-    "homepage": "https://github.com/Aardenfell/CK3-UnshackledSeductionContinued/blob/main/README.md"
-  }
-  
+  "name": "ck3-unshackledseductioncontinued",
+  "version": "1.0.1",
+  "description": "A mod for Crusader Kings III that enhances character interactions.",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "auto-changelog -p && git add CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aardenfell/CK3-UnshackledSeductionContinued"
+  },
+  "keywords": [
+    "mod",
+    "game",
+    "character interactions"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aardenfell/CK3-UnshackledSeductionContinued/issues"
+  },
+  "homepage": "https://github.com/Aardenfell/CK3-UnshackledSeductionContinued/blob/main/README.md"
+}
